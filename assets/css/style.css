@@ -220,7 +220,7 @@ body::-webkit-scrollbar {
 .players {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: light;
-    font-size: 1rem;
+    font-size: 0.8rem;
     padding-right: 90px;
 }
 
@@ -228,6 +228,12 @@ body::-webkit-scrollbar {
     color: #c0a7e1;
     margin-right: 8px;
     font-size: 0.9rem;
+}
+
+#player-count {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8rem;
+    padding-right: 13px;
 }
 
 /* ABOUT SERVER */
