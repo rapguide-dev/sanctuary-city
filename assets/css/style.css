@@ -284,7 +284,7 @@ body::-webkit-scrollbar {
     /* Space between cards */
     justify-items: center;
     /* Center grid items */
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .team-card {
