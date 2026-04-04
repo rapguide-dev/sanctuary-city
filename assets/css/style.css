@@ -281,9 +281,9 @@ body::-webkit-scrollbar {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     /* Responsive grid */
-    gap: 110px;
+    gap: 10px;
     /* Space between cards */
-    justify-items: auto;
+    justify-items: center;
     /* Center grid items */
     justify-content: center;
 }
