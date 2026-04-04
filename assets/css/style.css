@@ -30,7 +30,7 @@ body::-webkit-scrollbar {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    transition: background-image 2s ease-in-out;
+    transition: background-image 5s ease-in-out;
     animation: kenBurns 40s infinite alternate ease-in-out;
     display: flex;
     flex-direction: column;
