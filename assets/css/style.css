@@ -281,21 +281,22 @@ body::-webkit-scrollbar {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     /* Responsive grid */
-    gap: 30px;
+    gap: 110px;
     /* Space between cards */
-    justify-items: center;
+    justify-items: auto;
     /* Center grid items */
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .team-card {
+    max-width: 500px;
     background: rgba(255, 255, 255, 0.05);
     /* Semi-transparent background */
     backdrop-filter: blur(8px);
     /* Frosted glass effect */
     -webkit-backdrop-filter: blur(8px);
-    border-radius: 15px;
-    padding: 50px;
+    border-radius: 30px;
+    padding: 50px 50px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: 1px solid rgba(144, 69, 243, 0.743);
