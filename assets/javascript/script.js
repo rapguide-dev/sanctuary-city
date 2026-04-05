@@ -2,7 +2,7 @@ const backgrounds = [
     'assets/images/background/police-dep.png',
     'assets/images/background/uwu-cafe.png',
     'assets/images/background/mechanic.png',
-    'assets/images/background/hospital-dep.png'
+    'assets/images/background/hospital-dep.png',
 ];
 
 let currentBgIndex = 0;
