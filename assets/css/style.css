@@ -420,6 +420,33 @@ body::-webkit-scrollbar {
     box-shadow: 0 10px 20px rgb(103, 9, 234);
 }
 
+/* Footer Content */
+.footer {
+    width: 100%;
+    padding: 40px 0;
+    background: transparent;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer-content {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-content a {
+    color: #c0a7e1;
+    text-decoration: none;
+    margin-left: 5px;
+    transition: color 0.3s ease;
+}
+
+.footer-content a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
 /* Scroll Reveal Animation */
 .reveal {
     opacity: 0;
