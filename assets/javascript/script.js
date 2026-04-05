@@ -78,7 +78,7 @@ if (contactForm) {
         
         // Define your Google Form URLs here
         const urls = {
-            'account-appeal': 'https://docs.google.com/forms/d/YOUR_DONATION_FORM_ID/viewform',
+            'account-appeal': 'https://docs.google.com/forms/d/e/1FAIpQLSdbtx47tnqJRmJkKumFAW2QMrbF2iEkpFjG8zAH4TCV1Z3ZNg/viewform?usp=publish-editor',
             'perm-ban-appeal': 'https://docs.google.com/forms/d/YOUR_APPEAL_FORM_ID/viewform'
         };
 
