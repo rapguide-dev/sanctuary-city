@@ -408,8 +408,8 @@ body::-webkit-scrollbar {
     color: #ffffff;
     border: 2px solid #c0a7e1;
     font-family: 'Poppins', sans-serif;
-    font-size: 1rem;
-    padding: 12px 15px;
+    font-size: 0.9rem;
+    padding: 10px 15px;
     margin-top: 15px;
     cursor: pointer;
     border-radius: 10px;
@@ -417,8 +417,7 @@ body::-webkit-scrollbar {
 }
 
 .submit:hover {
-    background: ;
-
+    box-shadow: 0 10px 20px rgb(103, 9, 234);
 }
 
 /* Scroll Reveal Animation */
